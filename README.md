@@ -1,5 +1,5 @@
 # Data-Structures-and-Algorithms-With-Python
-This repository contains the main linked data structures in computer science and well as some of their applications. It also includes different algorithms. 
+This repository contains the main linked data structures in computer science as well as some of their applications. It also includes different algorithms. 
 It is all implemented using python.
 
 ## Featured data structures:
