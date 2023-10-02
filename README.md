@@ -11,12 +11,13 @@ It is all implemented using python.
 - Board Games Database (Just OOP no linked data structures)
 - CPU Scheduler (OOP, Queues and Stacks)
 - Web History (OOP, Linked Lists)
+- Balanced (Stacks, extra not in any Lab)
 
 ## Recursive Algorithms: (Lab4)
 - Fibonacci Sequence
 - Recursive Power
 - Pandemic Outbreak
 - Palindrome (extra not in any Lab)
-- Balanced (extra not in any Lab)
+
 
 
