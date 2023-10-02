@@ -15,6 +15,8 @@ It is all implemented using python.
 ## Recursive Algorithms: (Lab4)
 - Fibonacci Sequence
 - Recursive Power
-- Pandemic Outbreak 
+- Pandemic Outbreak
+- Palindrome (extra not in any Lab)
+- Balanced (extra not in any Lab)
 
 
