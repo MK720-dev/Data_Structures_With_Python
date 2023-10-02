@@ -7,17 +7,17 @@ It is all implemented using python.
 - Queues (Node based)
 - Linked Lists (Node based)
 
-## Applications: (Lab1, Lab2 and Lab3)
+## Applications:
 - Board Games Database (Just OOP no linked data structures)
 - CPU Scheduler (OOP, Queues and Stacks)
 - Web History (OOP, Linked Lists)
-- Balanced (Stacks, extra not in any Lab)
+- Balanced (Stacks)
 
-## Recursive Algorithms: (Lab4)
+## Recursive Algorithms: 
 - Fibonacci Sequence
 - Recursive Power
 - Pandemic Outbreak
-- Palindrome (extra not in any Lab)
+- Palindrome 
 
 
 
